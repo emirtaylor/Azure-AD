@@ -1,4 +1,4 @@
-# AZURE AD 
+# AZURE ACTIVE DIRECTORY 
 
 [![Video Name](https://img.youtube.com/vi/Qd0YI9ZMHHs/hqdefault.jpg)](https://youtu.be/Qd0YI9ZMHHs)
 
