@@ -1,7 +1,11 @@
-# Azure-AD
-Azure AD Projects 
-  - [Onboard Automator (Manage Azure Indentities and Governance)](https://github.com/emirtaylor/Azure-AD/blob/main/onboarder.md)
-  - [ShareSafely - File Share Web App (Implement and Manage Storage)](https://github.com/emirtaylor/ActiveDirectoryLab)
-  - [VM Fleet Commander (Deploy and Manage Azure Compute Resources)](https://github.com/emirtaylor/ActiveDirectoryLab)
-  - [NetMaze Explorer (Implement and Manage Virtual Networking)](https://github.com/emirtaylor/ActiveDirectoryLab)
-  - [InsightScape (Monitor and Backup Azure Resources)](https://github.com/emirtaylor/ActiveDirectoryLab)
+# AZURE AD 
+
+[![Video Name](https://img.youtube.com/vi/Qd0YI9ZMHHs/hqdefault.jpg)](https://youtu.be/Qd0YI9ZMHHs)
+
+## Projects
+
+1. [Onboard Automator (Manage Azure identities and governance)](./onboarder.md)
+2. [ShareSafely - File Share Web App (Implement and manage storage)](./sharesafely.md)
+3. [VM Fleet Commander (Deploy and manage Azure compute resources)](./vmfleetcommander.md)
+4. [NetMaze Explorer (Implement and manage virtual networking)](./netmazeexplorer.md)
+5. [InsightScape (Monitor and back up Azure resources)](./insightscape.md)
